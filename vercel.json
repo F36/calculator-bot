@@ -3,6 +3,6 @@
     {"src": "*py", "use": "@now/python"}
   ],
   "routes": [
-    {"src": "(.*)", "dest": "api/webhook.py"}
+    {"src": "(.*)", "dest": "./"}
   ]
 }
